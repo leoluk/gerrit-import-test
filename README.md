@@ -2,4 +2,3 @@
 
 Modify README
 
-Yay
